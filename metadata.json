@@ -1,0 +1,6 @@
+{
+  "name": "SerenityPath",
+  "description": "An offline-first, empathetic mental health companion for tracking moods, journaling reflections, managing daily wellness goals, and exploring rich therapeutic library resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
